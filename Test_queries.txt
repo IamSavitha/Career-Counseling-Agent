@@ -1,0 +1,35 @@
+Skills Gap Analyzer
+
+I want to become a Data Engineer at a FAANG company.
+My skills: Python, pandas, basic SQL, some Airflow, basic Linux, basic Docker.
+Target Job Description: strong SQL, data modeling, ETL pipelines, Airflow, Spark, cloud (AWS/GCP), CI/CD.
+Please analyze my skill gaps and give me a 3-month learning roadmap.
+
+Resume Scorer
+
+Target Role: Machine Learning Engineer
+Resume:
+
+MS in Data Analytics, SJSU
+
+Projects: stock trend prediction using LSTM and ARIMA, Airflow + dbt + Snowflake pipeline, mental health trends from Reddit using NLP
+
+Skills: Python, pandas, scikit-learn, PyTorch, SQL, Airflow, dbt, Snowflake, Git
+Please score this resume out of 10 for ML Engineer and give detailed improvement suggestions.
+
+Salary Estimator
+
+Job Title: Data Scientist
+Location: San Francisco Bay Area, USA
+Years of Experience: 1 (internships + projects)
+Notes: Applying to mid-size tech companies and startups.
+Estimate a realistic salary range and explain your reasoning.
+
+Interview Question Generator
+
+Role: Backend Engineer
+Level: junior
+Focus Areas: REST APIs, databases, concurrency
+Question Types: both technical and behavioral
+Number of Questions: 12
+Generate questions grouped by category with difficulty tags.
