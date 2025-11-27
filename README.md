@@ -137,7 +137,7 @@ Tools	Custom Python functions
 UI	Streamlit
 Memory	LangChain ConversationBufferMemory
 
-Author
+### Author
 
 Savitha Vijayarangan
 
