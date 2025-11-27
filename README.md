@@ -138,6 +138,9 @@ UI	Streamlit
 Memory	LangChain ConversationBufferMemory
 
 Author
+
 Savitha Vijayarangan
+
 MS Data Analytics | SJSU
+
 Tech: Data Science • ML • AI • Data Engineering
