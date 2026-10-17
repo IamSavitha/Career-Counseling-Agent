@@ -4,6 +4,7 @@
 ![Ollama](https://img.shields.io/badge/Ollama-llama3.2-000000?logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
 AI-powered Career Planning Assistant using Ollama, LangChain, and Streamlit
 
 This project implements an intelligent Career Counseling Agent that assists users with career planning, skill development, salary expectations, resume improvement, and interview preparation.
